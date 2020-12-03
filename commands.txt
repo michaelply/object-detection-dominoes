@@ -1,0 +1,21 @@
+# Tensorflow Training Commands
+
+# Run this if face errors in models direcctory (not object detection)
+export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
+
+# Convert XML to CSV
+python xml_to_csv.py
+
+# Create TF Record (Train and Test)
+python generate_tfrecord.py --csv_input=images/train_labels.csv --image_dir=images/train --output_path=train.record
+python generate_tfrecord.py --csv_input=images/test_labels.csv --image_dir=images/test --output_path=test.record   
+
+
+# Training
+python3 model_main_tf2.py --logtostderr --pipeline_config_path=faster_rcnn_resnet50_v1_640x640_coco17_tpu-8/pipeline.config --model_dir=faster_rcnn_resnet50_v1_640x640_coco17_tpu-8/
+
+# Output Graph
+python exporter_main_v2.py --input_type=image_tensor --pipeline_config_path=faster_rcnn_resnet50_v1_640x640_coco17_tpu-8/pipeline.config --trained_checkpoint_dir=faster_rcnn_resnet50_v1_640x640_coco17_tpu-8 --output_directory=output_graph/
+
+# Tensorboard
+tensorboard --logdir=faster_rcnn_resnet50_v1_640x640_coco17_tpu-8/
