@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>IMG_6154.jpg</filename>
+	<path>/Users/michaelpoon/Desktop/skynine/image/IMG_6154.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>126</ymin>
+			<xmax>357</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

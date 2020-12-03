@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>IMG_7205.jpg</filename>
+	<path>/Users/michaelpoon/Desktop/skynine/image/IMG_7205.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>230</ymin>
+			<xmax>384</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>

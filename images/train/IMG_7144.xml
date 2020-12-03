@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>IMG_7144.jpg</filename>
+	<path>/Users/michaelpoon/Desktop/skynine/image/IMG_7144.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heaven</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>200</ymin>
+			<xmax>504</xmax>
+			<ymax>622</ymax>
+		</bndbox>
+	</object>
+</annotation>

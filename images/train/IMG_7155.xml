@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>IMG_7155.jpg</filename>
+	<path>/Users/michaelpoon/Desktop/skynine/image/IMG_7155.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>earth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>209</ymin>
+			<xmax>280</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+</annotation>

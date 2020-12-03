@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>IMG_7195.jpg</filename>
+	<path>/Users/michaelpoon/Desktop/skynine/image/IMG_7195.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>man</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>114</ymin>
+			<xmax>351</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>IMG_6115.jpg</filename>
+	<path>/Users/michaelpoon/Desktop/skynine/image/IMG_6115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>672</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>earth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>164</ymin>
+			<xmax>551</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

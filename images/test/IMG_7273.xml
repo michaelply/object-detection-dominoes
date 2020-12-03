@@ -1,0 +1,26 @@
+<annotation>
+	<folder>testing</folder>
+	<filename>IMG_7273.jpg</filename>
+	<path>/Users/michaelpoon/Desktop/skynine/testing/IMG_7273.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>earth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>300</ymin>
+			<xmax>437</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

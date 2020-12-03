@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>IMG_7166.jpg</filename>
+	<path>/Users/michaelpoon/Desktop/skynine/image/IMG_7166.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>earth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>118</ymin>
+			<xmax>433</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>

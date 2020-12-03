@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>IMG_6094.jpg</filename>
+	<path>/Users/michaelpoon/Desktop/skynine/image/IMG_6094.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>672</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>210</ymin>
+			<xmax>463</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

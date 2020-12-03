@@ -1,0 +1,26 @@
+<annotation>
+	<folder>testing</folder>
+	<filename>IMG_7277.jpg</filename>
+	<path>/Users/michaelpoon/Desktop/skynine/testing/IMG_7277.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heaven</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>174</ymin>
+			<xmax>342</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>
